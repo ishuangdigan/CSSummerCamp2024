@@ -342,9 +342,9 @@
 
 > [东北大学夏令营通知](http://yz.neu.edu.cn/2024/0606/c5932a256581/page.htm)
 
-【报名截止：6.18】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)
+~~【报名截止：6.18】[软件学院](http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm)~~
 
-【报名截止：6.18】[计算机学院](http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm)
+~~【报名截止：6.18】[计算机学院](http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm)~~
 
 【报名截止：6.30】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm)
 
